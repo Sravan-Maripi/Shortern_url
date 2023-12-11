@@ -1,0 +1,3 @@
+export FLASK_APP=url_shortener
+
+export FLASK_ENV=development
